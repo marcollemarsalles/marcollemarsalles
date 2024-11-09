@@ -2,7 +2,7 @@
 
 Estou estudando desenvolvimento mobile Android e sou apaixonado por tecnologia.
 
-## Fomação
+## 📚 Fomação
 - Tecnólogo Análise e desenvolvimento de sistema 100%
 - Bacharel Administração 100%
 - Técnico programação de jogos digitais 100%
