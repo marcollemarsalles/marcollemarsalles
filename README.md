@@ -2,6 +2,11 @@
 
 Estou estudando desenvolvimento mobile Android e sou apaixonado por tecnologia.
 
+## Fomação
+- Tecnólogo Análise e desenvolvimento de sistema 100%
+- Bacharel Administração 100%
+- Técnico programação de jogos digitais 100%
+
 ## ⚡ Habilidades
 - Desenvolvimento Android (Java e Kotlin)
 - Arquiteturas MVC, MVP, MVVM
